@@ -1,1 +1,3 @@
-# game_cheracter_move_camera_example
+# unity-git-test
+a test repository for unity
+project descation
